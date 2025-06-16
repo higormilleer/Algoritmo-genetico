@@ -1,0 +1,61 @@
+# Relatorio de Grade Horaria - Curso de Ciencia da Computacao
+# Higor Miller Grassi 2554070, Matheus Menezes Plaza 2554119
+# ========================================================
+# Este relatorio apresenta a distribuicao das disciplinas por periodo,
+# organizada em uma grade horária semanal. Cada celula contém o codigo da disciplina seguido do professor responsável.
+# 
+# Legenda:
+# - Códigos das disciplinas: CC (Ciência da Computação), MA (Matemática), HU (Humanidades)
+# - Períodos: 1º a 6º (horários)
+# - Dias da semana: Segunda a Sexta
+# ========================================================
+
+#No png com a evolucao do fitness, podemos ver a sua rapida conversao, onde na epoca 50 ele ja esta com a media e o maior valor igualado
+#depois disso, ele so manteve realizando a mutacao, mas como os pais ja eram a maior media, o valor so manteve
+
+Período 1
+==================================================
+Horário | Segunda | Terça | Quarta | Quinta | Sexta
+---------------------------------------------------
+1º | CC1MBD (Prof. Souza) | MA1LM (Prof. Oliveira) | - | - | MA1LM (Prof. Pereira)
+2º | CC1AED1 (Prof. Lima) | MA1FM (Prof. Souza) | HU1LA (Prof. Santos) | - | MA1FM (Prof. Souza)
+3º | HU1LA (Prof. Rodrigues) | MA1LM (Prof. Souza) | CC1CC (Prof. Costa) | CC1AED1 (Prof. Santos) | CC1MBD (Prof. Rodrigues)
+4º | CC1MBD (Prof. Pereira) | CC1AED1 (Prof. Silva) | CC1AED1 (Prof. Rodrigues) | HU1LA (Prof. Santos) | CC1AED1 (Prof. Ferreira)
+5º | - | MA1FM (Prof. Ferreira) | CC1AED1 (Prof. Rodrigues) | CC1CC (Prof. Pereira) | MA1FM (Prof. Costa)
+6º | - | - | CC1MBD (Prof. Lima) | CC1CC (Prof. Costa) | -
+
+
+Período 2
+==================================================
+Horário | Segunda | Terça | Quarta | Quinta | Sexta
+---------------------------------------------------
+1º | - | - | MA2MA (Prof. Ferreira) | - | -
+2º | CC2POO (Prof. Silva) | - | CC2CLD (Prof. Silva) | CC2ER (Prof. Santos) | CC2ER (Prof. Silva)
+3º | CC2POO (Prof. Silva) | - | CC2CLD (Prof. Santos) | CC2ER (Prof. Costa) | CC2AED2 (Prof. Silva)
+4º | MA2MA (Prof. Ferreira) | CC2CLD (Prof. Pereira) | CC2AED2 (Prof. Oliveira) | CC2POO (Prof. Almeida) | CC2POO (Prof. Lima)
+5º | - | CC2AED2 (Prof. Oliveira) | - | MA2MA (Prof. Ferreira) | CC2AED2 (Prof. Oliveira)
+6º | - | MA2MA (Prof. Lima) | - | CC2ER (Prof. Ferreira) | CC2CLD (Prof. Rodrigues)
+
+
+Período 3
+==================================================
+Horário | Segunda | Terça | Quarta | Quinta | Sexta
+---------------------------------------------------
+1º | MA3AL (Prof. Silva) | CC3PI1 (Prof. Ferreira) | CC3AOC (Prof. Santos) | CC3AED3 (Prof. Ferreira) | MA3AL (Prof. Souza)
+2º | CC3ES (Prof. Ferreira) | CC3AOC (Prof. Ferreira) | CC3AOC (Prof. Lima) | CC3AED3 (Prof. Almeida) | CC3PI1 (Prof. Costa)
+3º | CC3AOC (Prof. Santos) | CC3ES (Prof. Oliveira) | CC3ES (Prof. Souza) | CC3PI1 (Prof. Lima) | CC3PI1 (Prof. Ferreira)
+4º | CC3AED3 (Prof. Costa) | MA3CA (Prof. Lima) | CC3PI1 (Prof. Souza) | CC3ES (Prof. Lima) | CC3PI1 (Prof. Silva)
+5º | CC3AOC (Prof. Pereira) | CC3AOC (Prof. Almeida) | MA3CA (Prof. Souza) | CC3PI1 (Prof. Rodrigues) | MA3CA (Prof. Ferreira)
+6º | CC3PI1 (Prof. Pereira) | MA3CA (Prof. Rodrigues) | CC3AED3 (Prof. Silva) | MA3AL (Prof. Santos) | CC3PI1 (Prof. Lima)
+
+
+Período 4
+==================================================
+Horário | Segunda | Terça | Quarta | Quinta | Sexta
+---------------------------------------------------
+1º | CC4SO (Prof. Oliveira) | - | CC4RC (Prof. Lima) | CC4IHC (Prof. Pereira) | CC4SO (Prof. Santos)
+2º | MA4PE (Prof. Santos) | CC4PO (Prof. Lima) | CC4IHC (Prof. Costa) | CC4SO (Prof. Pereira) | CC4RC (Prof. Rodrigues)
+3º | CC4LBD (Prof. Lima) | CC4SO (Prof. Santos) | CC4IHC (Prof. Oliveira) | MA4PE (Prof. Silva) | MA4PE (Prof. Pereira)
+4º | CC4IHC (Prof. Souza) | CC4PO (Prof. Costa) | CC4LBD (Prof. Ferreira) | CC4LBD (Prof. Ferreira) | CC4RC (Prof. Santos)
+5º | CC4PO (Prof. Costa) | CC4PO (Prof. Silva) | - | - | CC4RC (Prof. Silva)
+6º | CC4LBD (Prof. Ferreira) | MA4PE (Prof. Santos) | - | - | -
